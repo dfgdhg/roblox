@@ -2,7 +2,7 @@ local container = Instance.new("Folder", gethui());
  
 local function createHighlight(character)
     local highlight = Instance.new("Highlight", container);
-    highlight.FillColor = BrickColor.new("Bright Green").Color;
+    highlight.FillColor = BrickColor.new("Bright Blue").Color;
     highlight.FillTransparency = 0.1;
     highlight.OutlineTransparency = 1;
     highlight.DepthMode = "AlwaysOnTop";
