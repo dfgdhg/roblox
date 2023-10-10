@@ -7,13 +7,13 @@ local Settings = {
     Team1 = {
         Box = {Enabled = true, Filled = false, Outline = true, Color = Color3.fromRGB(255, 51, 51), OutlineColor = Color3.fromRGB(0, 0, 0), Thickness = 0.8, Transparency = 1},
         Trace = {Enabled = false, Outline = false, Color = Color3.fromRGB(0, 150, 255), OutlineColor = Color3.fromRGB(0, 0, 0), Thickness = 1, Transparency = 1},
-        Weapon = {Enabled = true, Size = 8, Center = true, Outline = true, Color = Color3.fromRGB(0, 255, 30), OutlineColor = Color3.fromRGB(0, 0, 0)},
+        Weapon = {Enabled = false, Size = 8, Center = true, Outline = true, Color = Color3.fromRGB(0, 255, 30), OutlineColor = Color3.fromRGB(0, 0, 0)},
         Distance = {Enabled = true, Size = 10, Center = true, Outline = true, Color = Color3.fromRGB(0, 181, 21), OutlineColor = Color3.fromRGB(0, 0, 0)}
     },
     Team2 = {
         Box = {Enabled = true, Filled = false, Outline = true, Color = Color3.fromRGB(51, 255, 51), OutlineColor = Color3.fromRGB(0, 0, 0), Thickness = 0.8, Transparency = 1},
         Trace = {Enabled = false, Outline = false, Color = Color3.fromRGB(200, 0, 255), OutlineColor = Color3.fromRGB(0, 0, 0), Thickness = 1, Transparency = 1},
-        Weapon = {Enabled = true, Size = 8, Center = true, Outline = true, Color = Color3.fromRGB(0, 229, 255), OutlineColor = Color3.fromRGB(0, 0, 0)},
+        Weapon = {Enabled = false, Size = 8, Center = true, Outline = true, Color = Color3.fromRGB(0, 229, 255), OutlineColor = Color3.fromRGB(0, 0, 0)},
         Distance = {Enabled = true, Size = 10, Center = true, Outline = true, Color = Color3.fromRGB(0, 181, 201), OutlineColor = Color3.fromRGB(0, 0, 0)}
     }
 }
